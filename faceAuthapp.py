@@ -20,7 +20,7 @@ IST = pytz.timezone('Asia/Kolkata')
 os.makedirs(KNOWN_FACES_DIR, exist_ok=True)
 os.makedirs(LOG_DIR, exist_ok=True)
 
-NGROK_TOKEN = "36mSHpSl4DWk4VZO6zTudKO3Piz_2ReYvKNYAz8zPKgUJRMxH"
+NGROK_TOKEN = "PASTE_YOUR_NGROK_HERE"
 ngrok.set_auth_token(NGROK_TOKEN)
 
 app = Flask(__name__)
