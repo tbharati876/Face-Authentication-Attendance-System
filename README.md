@@ -1,8 +1,4 @@
-# Video Demo Link:
-https://drive.google.com/file/d/1xOwnvqnZ9QOQzdYhFlMiZfWV_lAODozw/view?usp=sharing
 
-# Colab Code Notebook Link:
-https://colab.research.google.com/drive/1ndrasLc91DKnk4Qal0wrUNrWtWWyRTVc?usp=sharing
 
 # Face Authentication Attendance System
 
